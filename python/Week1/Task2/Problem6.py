@@ -12,4 +12,5 @@ fab=1
 while n>1:
     fab*=n
     n-=1
-print(k,'! =',fab)    
+else:    
+ print(k,'! =',fab)    
